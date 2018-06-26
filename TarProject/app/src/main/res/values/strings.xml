@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TarProject</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="enter">enter</string>
+</resources>
